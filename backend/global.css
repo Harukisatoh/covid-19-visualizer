@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+#mapid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 15px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 25%);
+  height: 95vh;
+  width: 95vw;
+}
+
+.leaflet-container {
+  background-color: #191A1A;
+}

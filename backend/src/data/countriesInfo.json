@@ -1,0 +1,882 @@
+{
+  "Afghanistan": {
+    "cca2": "AF",
+    "lat": 33,
+    "long": 65
+  },
+  "Albania": {
+    "cca2": "AL",
+    "lat": 41,
+    "long": 20
+  },
+  "Algeria": {
+    "cca2": "DZ",
+    "lat": 28,
+    "long": 3
+  },
+  "Andorra": {
+    "cca2": "AD",
+    "lat": 42.5,
+    "long": 1.5
+  },
+  "Angola": {
+    "cca2": "AO",
+    "lat": -12.5,
+    "long": 18.5
+  },
+  "Antigua and Barbuda": {
+    "cca2": "AG",
+    "lat": 17.05,
+    "long": -61.8
+  },
+  "Argentina": {
+    "cca2": "AR",
+    "lat": -34,
+    "long": -64
+  },
+  "Armenia": {
+    "cca2": "AM",
+    "lat": 40,
+    "long": 45
+  },
+  "Australia": {
+    "cca2": "AU",
+    "lat": -27,
+    "long": 133
+  },
+  "Austria": {
+    "cca2": "AT",
+    "lat": 47.33333333,
+    "long": 13.33333333
+  },
+  "Azerbaijan": {
+    "cca2": "AZ",
+    "lat": 40.5,
+    "long": 47.5
+  },
+  "Bahamas": {
+    "cca2": "BS",
+    "lat": 24.25,
+    "long": -76
+  },
+  "Bahrain": {
+    "cca2": "BH",
+    "lat": 26,
+    "long": 50.55
+  },
+  "Bangladesh": {
+    "cca2": "BD",
+    "lat": 24,
+    "long": 90
+  },
+  "Barbados": {
+    "cca2": "BB",
+    "lat": 13.16666666,
+    "long": -59.53333333
+  },
+  "Belarus": {
+    "cca2": "BY",
+    "lat": 53,
+    "long": 28
+  },
+  "Belgium": {
+    "cca2": "BE",
+    "lat": 50.83333333,
+    "long": 4
+  },
+  "Benin": {
+    "cca2": "BJ",
+    "lat": 9.5,
+    "long": 2.25
+  },
+  "Bhutan": {
+    "cca2": "BT",
+    "lat": 27.5,
+    "long": 90.5
+  },
+  "Bolivia": {
+    "cca2": "BO",
+    "lat": -17,
+    "long": -65
+  },
+  "Bosnia and Herzegovina": {
+    "cca2": "BA",
+    "lat": 44,
+    "long": 18
+  },
+  "Brazil": {
+    "cca2": "BR",
+    "lat": -10,
+    "long": -55
+  },
+  "Brunei": {
+    "cca2": "BN",
+    "lat": 4.5,
+    "long": 114.66666666
+  },
+  "Bulgaria": {
+    "cca2": "BG",
+    "lat": 43,
+    "long": 25
+  },
+  "Burkina Faso": {
+    "cca2": "BF",
+    "lat": 13,
+    "long": -2
+  },
+  "Cabo Verde": {
+    "cca2": "CV",
+    "lat": 16,
+    "long": -24
+  },
+  "Cambodia": {
+    "cca2": "KH",
+    "lat": 13,
+    "long": 105
+  },
+  "Cameroon": {
+    "cca2": "CM",
+    "lat": 6,
+    "long": 12
+  },
+  "Canada": {
+    "cca2": "CA",
+    "lat": 60,
+    "long": -95
+  },
+  "Central African Republic": {
+    "cca2": "CF",
+    "lat": 7,
+    "long": 21
+  },
+  "Chad": {
+    "cca2": "TD",
+    "lat": 15,
+    "long": 19
+  },
+  "Chile": {
+    "cca2": "CL",
+    "lat": -30,
+    "long": -71
+  },
+  "China": {
+    "cca2": "CN",
+    "lat": 35,
+    "long": 105
+  },
+  "Colombia": {
+    "cca2": "CO",
+    "lat": 4,
+    "long": -72
+  },
+  "Costa Rica": {
+    "cca2": "CR",
+    "lat": 10,
+    "long": -84
+  },
+  "Croatia": {
+    "cca2": "HR",
+    "lat": 45.16666666,
+    "long": 15.5
+  },
+  "Cuba": {
+    "cca2": "CU",
+    "lat": 21.5,
+    "long": -80
+  },
+  "Cyprus": {
+    "cca2": "CY",
+    "lat": 35,
+    "long": 33
+  },
+  "Czechia": {
+    "cca2": "CZ",
+    "lat": 49.75,
+    "long": 15.5
+  },
+  "Denmark": {
+    "cca2": "DK",
+    "lat": 56,
+    "long": 10
+  },
+  "Djibouti": {
+    "cca2": "DJ",
+    "lat": 11.5,
+    "long": 43
+  },
+  "Dominican Republic": {
+    "cca2": "DO",
+    "lat": 19,
+    "long": -70.66666666
+  },
+  "Ecuador": {
+    "cca2": "EC",
+    "lat": -2,
+    "long": -77.5
+  },
+  "Egypt": {
+    "cca2": "EG",
+    "lat": 27,
+    "long": 30
+  },
+  "El Salvador": {
+    "cca2": "SV",
+    "lat": 13.83333333,
+    "long": -88.91666666
+  },
+  "Equatorial Guinea": {
+    "cca2": "GQ",
+    "lat": 2,
+    "long": 10
+  },
+  "Eritrea": {
+    "cca2": "ER",
+    "lat": 15,
+    "long": 39
+  },
+  "Estonia": {
+    "cca2": "EE",
+    "lat": 59,
+    "long": 26
+  },
+  "Eswatini": {
+    "cca2": "SZ",
+    "lat": -26.5,
+    "long": 31.5
+  },
+  "Ethiopia": {
+    "cca2": "ET",
+    "lat": 8,
+    "long": 38
+  },
+  "Fiji": {
+    "cca2": "FJ",
+    "lat": -18,
+    "long": 175
+  },
+  "Finland": {
+    "cca2": "FI",
+    "lat": 64,
+    "long": 26
+  },
+  "France": {
+    "cca2": "FR",
+    "lat": 46,
+    "long": 2
+  },
+  "Gabon": {
+    "cca2": "GA",
+    "lat": -1,
+    "long": 11.75
+  },
+  "Gambia": {
+    "cca2": "GM",
+    "lat": 13.46666666,
+    "long": -16.56666666
+  },
+  "Georgia": {
+    "cca2": "GE",
+    "lat": 42,
+    "long": 43.5
+  },
+  "Germany": {
+    "cca2": "DE",
+    "lat": 51,
+    "long": 9
+  },
+  "Ghana": {
+    "cca2": "GH",
+    "lat": 8,
+    "long": -2
+  },
+  "Greece": {
+    "cca2": "GR",
+    "lat": 39,
+    "long": 22
+  },
+  "Guatemala": {
+    "cca2": "GT",
+    "lat": 15.5,
+    "long": -90.25
+  },
+  "Guinea": {
+    "cca2": "GN",
+    "lat": 11,
+    "long": -10
+  },
+  "Guyana": {
+    "cca2": "GY",
+    "lat": 5,
+    "long": -59
+  },
+  "Haiti": {
+    "cca2": "HT",
+    "lat": 19,
+    "long": -72.41666666
+  },
+  "Honduras": {
+    "cca2": "HN",
+    "lat": 15,
+    "long": -86.5
+  },
+  "Hungary": {
+    "cca2": "HU",
+    "lat": 47,
+    "long": 20
+  },
+  "Iceland": {
+    "cca2": "IS",
+    "lat": 65,
+    "long": -18
+  },
+  "India": {
+    "cca2": "IN",
+    "lat": 20,
+    "long": 77
+  },
+  "Indonesia": {
+    "cca2": "ID",
+    "lat": -5,
+    "long": 120
+  },
+  "Iran": {
+    "cca2": "IR",
+    "lat": 32,
+    "long": 53
+  },
+  "Iraq": {
+    "cca2": "IQ",
+    "lat": 33,
+    "long": 44
+  },
+  "Ireland": {
+    "cca2": "IE",
+    "lat": 53,
+    "long": -8
+  },
+  "Israel": {
+    "cca2": "IL",
+    "lat": 31.47,
+    "long": 35.13
+  },
+  "Italy": {
+    "cca2": "IT",
+    "lat": 42.83333333,
+    "long": 12.83333333
+  },
+  "Jamaica": {
+    "cca2": "JM",
+    "lat": 18.25,
+    "long": -77.5
+  },
+  "Japan": {
+    "cca2": "JP",
+    "lat": 36,
+    "long": 138
+  },
+  "Jordan": {
+    "cca2": "JO",
+    "lat": 31,
+    "long": 36
+  },
+  "Kazakhstan": {
+    "cca2": "KZ",
+    "lat": 48,
+    "long": 68
+  },
+  "Kenya": {
+    "cca2": "KE",
+    "lat": 1,
+    "long": 38
+  },
+  "Kuwait": {
+    "cca2": "KW",
+    "lat": 29.5,
+    "long": 45.75
+  },
+  "Kyrgyzstan": {
+    "cca2": "KG",
+    "lat": 41,
+    "long": 75
+  },
+  "Latvia": {
+    "cca2": "LV",
+    "lat": 57,
+    "long": 25
+  },
+  "Lebanon": {
+    "cca2": "LB",
+    "lat": 33.83333333,
+    "long": 35.83333333
+  },
+  "Liberia": {
+    "cca2": "LR",
+    "lat": 6.5,
+    "long": -9.5
+  },
+  "Liechtenstein": {
+    "cca2": "LI",
+    "lat": 47.26666666,
+    "long": 9.53333333
+  },
+  "Lithuania": {
+    "cca2": "LT",
+    "lat": 56,
+    "long": 24
+  },
+  "Luxembourg": {
+    "cca2": "LU",
+    "lat": 49.75,
+    "long": 6.16666666
+  },
+  "Madagascar": {
+    "cca2": "MG",
+    "lat": -20,
+    "long": 47
+  },
+  "Malaysia": {
+    "cca2": "MY",
+    "lat": 2.5,
+    "long": 112.5
+  },
+  "Maldives": {
+    "cca2": "MV",
+    "lat": 3.25,
+    "long": 73
+  },
+  "Malta": {
+    "cca2": "MT",
+    "lat": 35.83333333,
+    "long": 14.58333333
+  },
+  "Mauritania": {
+    "cca2": "MR",
+    "lat": 20,
+    "long": -12
+  },
+  "Mauritius": {
+    "cca2": "MU",
+    "lat": -20.28333333,
+    "long": 57.55
+  },
+  "Mexico": {
+    "cca2": "MX",
+    "lat": 23,
+    "long": -102
+  },
+  "Moldova": {
+    "cca2": "MD",
+    "lat": 47,
+    "long": 29
+  },
+  "Monaco": {
+    "cca2": "MC",
+    "lat": 43.73333333,
+    "long": 7.4
+  },
+  "Mongolia": {
+    "cca2": "MN",
+    "lat": 46,
+    "long": 105
+  },
+  "Montenegro": {
+    "cca2": "ME",
+    "lat": 42.5,
+    "long": 19.3
+  },
+  "Morocco": {
+    "cca2": "MA",
+    "lat": 32,
+    "long": -5
+  },
+  "Namibia": {
+    "cca2": "NA",
+    "lat": -22,
+    "long": 17
+  },
+  "Nepal": {
+    "cca2": "NP",
+    "lat": 28,
+    "long": 84
+  },
+  "Netherlands": {
+    "cca2": "NL",
+    "lat": 52.5,
+    "long": 5.75
+  },
+  "New Zealand": {
+    "cca2": "NZ",
+    "lat": -41,
+    "long": 174
+  },
+  "Nicaragua": {
+    "cca2": "NI",
+    "lat": 13,
+    "long": -85
+  },
+  "Niger": {
+    "cca2": "NE",
+    "lat": 16,
+    "long": 8
+  },
+  "Nigeria": {
+    "cca2": "NG",
+    "lat": 10,
+    "long": 8
+  },
+  "North Macedonia": {
+    "cca2": "MK",
+    "lat": 41.83333333,
+    "long": 22
+  },
+  "Norway": {
+    "cca2": "NO",
+    "lat": 62,
+    "long": 10
+  },
+  "Oman": {
+    "cca2": "OM",
+    "lat": 21,
+    "long": 57
+  },
+  "Pakistan": {
+    "cca2": "PK",
+    "lat": 30,
+    "long": 70
+  },
+  "Panama": {
+    "cca2": "PA",
+    "lat": 9,
+    "long": -80
+  },
+  "Papua New Guinea": {
+    "cca2": "PG",
+    "lat": -6,
+    "long": 147
+  },
+  "Paraguay": {
+    "cca2": "PY",
+    "lat": -23,
+    "long": -58
+  },
+  "Peru": {
+    "cca2": "PE",
+    "lat": -10,
+    "long": -76
+  },
+  "Philippines": {
+    "cca2": "PH",
+    "lat": 13,
+    "long": 122
+  },
+  "Poland": {
+    "cca2": "PL",
+    "lat": 52,
+    "long": 20
+  },
+  "Portugal": {
+    "cca2": "PT",
+    "lat": 39.5,
+    "long": -8
+  },
+  "Qatar": {
+    "cca2": "QA",
+    "lat": 25.5,
+    "long": 51.25
+  },
+  "Romania": {
+    "cca2": "RO",
+    "lat": 46,
+    "long": 25
+  },
+  "Russia": {
+    "cca2": "RU",
+    "lat": 60,
+    "long": 100
+  },
+  "Rwanda": {
+    "cca2": "RW",
+    "lat": -2,
+    "long": 30
+  },
+  "Saint Lucia": {
+    "cca2": "LC",
+    "lat": 13.88333333,
+    "long": -60.96666666
+  },
+  "Saint Vincent and the Grenadines": {
+    "cca2": "VC",
+    "lat": 13.25,
+    "long": -61.2
+  },
+  "San Marino": {
+    "cca2": "SM",
+    "lat": 43.76666666,
+    "long": 12.41666666
+  },
+  "Saudi Arabia": {
+    "cca2": "SA",
+    "lat": 25,
+    "long": 45
+  },
+  "Senegal": {
+    "cca2": "SN",
+    "lat": 14,
+    "long": -14
+  },
+  "Serbia": {
+    "cca2": "RS",
+    "lat": 44,
+    "long": 21
+  },
+  "Seychelles": {
+    "cca2": "SC",
+    "lat": -4.58333333,
+    "long": 55.66666666
+  },
+  "Singapore": {
+    "cca2": "SG",
+    "lat": 1.36666666,
+    "long": 103.8
+  },
+  "Slovakia": {
+    "cca2": "SK",
+    "lat": 48.66666666,
+    "long": 19.5
+  },
+  "Slovenia": {
+    "cca2": "SI",
+    "lat": 46.11666666,
+    "long": 14.81666666
+  },
+  "Somalia": {
+    "cca2": "SO",
+    "lat": 10,
+    "long": 49
+  },
+  "South Africa": {
+    "cca2": "ZA",
+    "lat": -29,
+    "long": 24
+  },
+  "Spain": {
+    "cca2": "ES",
+    "lat": 40,
+    "long": -4
+  },
+  "Sri Lanka": {
+    "cca2": "LK",
+    "lat": 7,
+    "long": 81
+  },
+  "Sudan": {
+    "cca2": "SD",
+    "lat": 15,
+    "long": 30
+  },
+  "Suriname": {
+    "cca2": "SR",
+    "lat": 4,
+    "long": -56
+  },
+  "Sweden": {
+    "cca2": "SE",
+    "lat": 62,
+    "long": 15
+  },
+  "Switzerland": {
+    "cca2": "CH",
+    "lat": 47,
+    "long": 8
+  },
+  "Tanzania": {
+    "cca2": "TZ",
+    "lat": -6,
+    "long": 35
+  },
+  "Thailand": {
+    "cca2": "TH",
+    "lat": 15,
+    "long": 100
+  },
+  "Togo": {
+    "cca2": "TG",
+    "lat": 8,
+    "long": 1.16666666
+  },
+  "Trinidad and Tobago": {
+    "cca2": "TT",
+    "lat": 11,
+    "long": -61
+  },
+  "Tunisia": {
+    "cca2": "TN",
+    "lat": 34,
+    "long": 9
+  },
+  "Turkey": {
+    "cca2": "TR",
+    "lat": 39,
+    "long": 35
+  },
+  "Uganda": {
+    "cca2": "UG",
+    "lat": 1,
+    "long": 32
+  },
+  "Ukraine": {
+    "cca2": "UA",
+    "lat": 49,
+    "long": 32
+  },
+  "United Arab Emirates": {
+    "cca2": "AE",
+    "lat": 24,
+    "long": 54
+  },
+  "United Kingdom": {
+    "cca2": "GB",
+    "lat": 54,
+    "long": -2
+  },
+  "Uruguay": {
+    "cca2": "UY",
+    "lat": -33,
+    "long": -56
+  },
+  "Uzbekistan": {
+    "cca2": "UZ",
+    "lat": 41,
+    "long": 64
+  },
+  "Venezuela": {
+    "cca2": "VE",
+    "lat": 8,
+    "long": -66
+  },
+  "Vietnam": {
+    "cca2": "VN",
+    "lat": 16.16666666,
+    "long": 107.83333333
+  },
+  "Zambia": {
+    "cca2": "ZM",
+    "lat": -15,
+    "long": 30
+  },
+  "Zimbabwe": {
+    "cca2": "ZW",
+    "lat": -20,
+    "long": 30
+  },
+  "Dominica": {
+    "cca2": "DM",
+    "lat": 15.41666666,
+    "long": -61.33333333
+  },
+  "Grenada": {
+    "cca2": "GD",
+    "lat": 12.11666666,
+    "long": -61.66666666
+  },
+  "Mozambique": {
+    "cca2": "MZ",
+    "lat": -18.25,
+    "long": 35
+  },
+  "Syria": {
+    "cca2": "SY",
+    "lat": 35,
+    "long": 38
+  },
+  "Timor-Leste": {
+    "cca2": "TL",
+    "lat": -8.83333333,
+    "long": 125.91666666
+  },
+  "Belize": {
+    "cca2": "BZ",
+    "lat": 17.25,
+    "long": -88.75
+  },
+  "Laos": {
+    "cca2": "LA",
+    "lat": 18,
+    "long": 105
+  },
+  "Libya": {
+    "cca2": "LY",
+    "lat": 25,
+    "long": 17
+  },
+  "West Bank and Gaza": {
+    "cca2": "PS/IL",
+    "lat": 31.4167,
+    "long": 34.3333
+  },
+  "Guinea-Bissau": {
+    "cca2": "GW",
+    "lat": 12,
+    "long": -15
+  },
+  "Mali": {
+    "cca2": "ML",
+    "lat": 17,
+    "long": -4
+  },
+  "Saint Kitts and Nevis": {
+    "cca2": "KN",
+    "lat": 17.33333333,
+    "long": -62.75
+  },
+  "Kosovo": {
+    "cca2": "XK",
+    "lat": 42.666667,
+    "long": 21.166667
+  },
+  "Botswana": {
+    "cca2": "BW",
+    "lat": -22,
+    "long": 24
+  },
+  "Congo (Brazzaville)": {
+    "cca2": "CG",
+    "lat": -1,
+    "long": 15
+  },
+  "Congo (Kinshasa)": {
+    "cca2": "CD",
+    "lat": 0,
+    "long": 25
+  },
+  "Cote d'Ivoire": {
+    "cca2": "CI",
+    "lat": 8,
+    "long": -5
+  },
+  "Holy See": {
+    "cca2": "VA",
+    "lat": 41.9,
+    "long": 12.45
+  },
+  "Korea, South": {
+    "cca2": "KR",
+    "lat": 37,
+    "long": 127.5
+  },
+  "Taiwan*": {
+    "cca2": "TW",
+    "lat": 23.5,
+    "long": 121
+  },
+  "US": {
+    "cca2": "US",
+    "lat": 38,
+    "long": -97
+  },
+  "Burma": {
+    "cca2": "MM",
+    "lat": 22,
+    "long": 98
+  }
+}
