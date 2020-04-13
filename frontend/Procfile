@@ -1,1 +1,1 @@
-web: npm workspace covid-19-cases-visualizer start
+web: npm covid-19-cases-visualizer start
