@@ -1,1 +1,1 @@
-web: npm covid-19-cases-visualizer-api start
+web: npm start
