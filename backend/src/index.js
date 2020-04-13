@@ -16,7 +16,7 @@ app.use(cors(corsOptions));
 app.use(express.json());
 app.use(routes);
 
-app.listen(3333, schedulerController.schedule);
+app.listen(process.env.PORT || 3333, schedulerController.schedule);
 
 // countriesInfo = {
 //   country: {
