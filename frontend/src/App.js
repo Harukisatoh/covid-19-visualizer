@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useCallback, useEffect, useState, useRef } from "react";
 
 import {
   Map,
@@ -14,6 +14,7 @@ import "./App.css";
 import CustomCircleMarker from "./components/CustomCircleMarker";
 import Slider from "./components/Slider";
 import RadioMenu from "./components/RadioMenu";
+import debounce from "./utils/debounce";
 
 export default function App() {
   const mapRef = useRef(null);
@@ -27,10 +28,18 @@ export default function App() {
     deaths: 0,
     recovered: 0,
   });
-  const [option, setOption] = useState("recovered");
+  const [option, setOption] = useState("confirmed");
+  const debouncedFetch = useCallback(
+    debounce((newValue) => fetchDayData(newValue), 50),
+    []
+  );
 
   useEffect(() => {
-    api.get(`/report/${day}`).then((response) => {
+    fetchDayData(day);
+  }, []);
+
+  function fetchDayData(selectedDay) {
+    api.get(`/report/${selectedDay}`).then((response) => {
       setFirstDayDate(response.headers["x-first-day-date"]);
       setDayDate(response.headers["x-day-date"]);
       setTotalDays(response.headers["x-total-days"]);
@@ -40,11 +49,12 @@ export default function App() {
         deaths: response.headers["x-max-deaths-case"],
         recovered: response.headers["x-max-recovered-case"],
       };
+
       setMaxCases(aux);
 
       setCovidData(response.data);
     });
-  }, [day]);
+  }
 
   function renderCircularMarkers() {
     return Object.keys(covidData).map(
@@ -100,7 +110,10 @@ export default function App() {
       </div>
       <div className="MenuDiv">
         <Slider
-          onChange={setDay}
+          onChange={(newValue) => {
+            setDay(newValue);
+            debouncedFetch(newValue);
+          }}
           firstDayDate={firstDayDate}
           totalDays={totalDays}
         />
