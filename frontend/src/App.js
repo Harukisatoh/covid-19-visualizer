@@ -1,12 +1,6 @@
 import React, { useCallback, useEffect, useState, useRef } from "react";
 
-import {
-  Map,
-  TileLayer,
-  LayersControl,
-  FeatureGroup,
-  MapControl,
-} from "react-leaflet";
+import { Map, TileLayer, LayersControl, FeatureGroup } from "react-leaflet";
 
 import api from "./services/api";
 
