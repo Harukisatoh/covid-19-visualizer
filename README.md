@@ -1,6 +1,12 @@
 ![COVID-19 Visualizer](docs/media/banner.png)
 
-## Installing and running
+## What it is?
+
+COVID-19 Visualizer is a simple web app made with React with the purpose of keep track and monitor the growth of COVID-19 cases across the world. You can check out the live version of the app through this link: [COVID-19 Visualizer](https://covid-19-cases-visualizer.herokuapp.com/).
+
+As an alternative you can also run the project locally.
+
+## Installing and running locally
 
 To run locally you will need to install each of the below:
 
